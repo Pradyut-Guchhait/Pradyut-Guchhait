@@ -3,7 +3,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=pradyut-guchhait&label=Profile%20views&color=0e75b6&style=flat" alt="pradyut-guchhait" /> </p>
 
-- 🔭 I’m currently working on [Portfolio Website](www.pradyutguchhait.wordpress.com)
+- 🔭 I’m currently working on [Portfolio Website](pradyutguchhait.wordpress.com)
 
 - 🌱 I’m currently learning **HTML,CSS and JavaScript**
 
