@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Pradyut Guchhait</h1>
 <h3 align="center">A passionate learning developer</h3>
 
-- 🔭 I’m currently working on [Portfolio Website](pradyutguchhait.netlify.app)
+- 🔭 I’m currently working on [Portfolio Website](https://pradyutguchhait.wordpress.com/)
 
 - 🌱 I’m currently learning **C++, JavaScript, Java and Python**
 
