@@ -5,7 +5,7 @@
 
 - 🌱 I’m currently learning **C++, JavaScript, Java and Python**
 
-- 👨‍💻 All of my projects are available at [pradyutguchhait.netlify.app](pradyutguchhait.netlify.app)
+- 👨‍💻 All of my projects are available at [pradyutguchhait.netlify.app](https://pradyutguchhait.netlify.app/)
 
 - 💬 Ask me about **anything related to tech**
 
