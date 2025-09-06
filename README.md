@@ -58,9 +58,7 @@
   
   <!-- Streak Card -->
   <img src="https://streak-stats.demolab.com?user=pradyut-guchhait&theme=tokyonight&hide_border=true" height="180"/>
-</p>
-
-<p align="center">
+  
   <!-- Top Languages (Bigger Size) -->
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=pradyut-guchhait&layout=compact&theme=tokyonight&hide_border=true" height="200"/>
 </p>
