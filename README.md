@@ -55,10 +55,10 @@
 <p align="center">
   <!-- Stats Card -->
   <img src="https://github-readme-stats.vercel.app/api?username=pradyut-guchhait&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&rank_icon=github" height="180"/>
-  
+  <br>
   <!-- Streak Card -->
   <img src="https://streak-stats.demolab.com?user=pradyut-guchhait&theme=tokyonight&hide_border=true" height="180"/>
-  
+  <br>
   <!-- Top Languages (Bigger Size) -->
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=pradyut-guchhait&layout=compact&theme=tokyonight&hide_border=true" height="200"/>
 </p>
